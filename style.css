@@ -34,6 +34,26 @@ main {
   border: 0.3rem solid #0a111f;
 }
 
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: #94a3b8;
+  height: 3rem;
+  line-height: 3rem;
+  background-color: #02050d;
+}
+
+a {
+  color: #3b82f6;
+}
+
+a:hover {
+  color: #93c5fd;
+}
+
 .label-content {
   margin-bottom: 2rem;
 }
